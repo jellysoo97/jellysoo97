@@ -28,8 +28,16 @@
 
 <hr />
 <h3>Projects🎵</h3>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Cotato-web-client&theme=graywhite)](https://github.com/jellysoo97/Cotato-web-client)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=travelmate&theme=graywhite)](https://github.com/jellysoo97/travelmate)
+
+<a href="https://github.com/jellysoo97/Cotato-web-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Cotato-web-client&theme=buefy" />
+</a>
+<a href="https://github.com/jellysoo97/travelmate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=travelmate&theme=buefy" />
+</a>
+
 <hr />
-<p align="center"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=jellysoo97) </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jellysoo97)
+
 
