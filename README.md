@@ -30,8 +30,8 @@
 <hr />
 <h3>Projects🎵</h3>
 
-<a href="https://github.com/jellysoo97/Cotato-web-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Cotato-web-client&theme=buefy" />
+<a href="https://github.com/jellysoo97/Cotato-web-client-fork">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Cotato-web-client-fork&theme=buefy" />
 </a>
 <a href="https://github.com/jellysoo97/travelmate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=travelmate&theme=buefy" />
