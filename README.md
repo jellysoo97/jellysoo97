@@ -5,9 +5,8 @@
 - ✏ studying Web FrontEnd
 - 🦉 Hankuk University of Foreign Studies
 - 🎓 major in Chinese Foreign Affairs and Commerce & SWAI (Software&AI)
-
-<h3>My Tech Stack 🔧</h3>
-
+<hr />
+<h3>My Tech Stack🔧</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -21,12 +20,16 @@
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+<hr />
+<h3>Stats📈</h3>
 
-<h3>Statistics and Projects 📈</h3>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jellysoo97&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jellysoo97's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellysoo97&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
-![](https://github-readme-stats.vercel.app/api?username=jellysoo97&show_icons=true&theme=tokyonight&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jellysoo97&theme=tokyonight&line_height=33)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Cotato-web-client&theme=tokyonight)](https://github.com/FranciscoMendes10866/gridbit)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=travelmate&theme=tokyonight)](https://github.com/FranciscoMendes10866/recons)
-
+<hr />
+<h3>Projects🎵</h3>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Cotato-web-client&theme=graywhite)](https://github.com/jellysoo97/Cotato-web-client)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=travelmate&theme=graywhite)](https://github.com/jellysoo97/travelmate)
+<hr />
 <p align="center"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=jellysoo97) </p>
+
