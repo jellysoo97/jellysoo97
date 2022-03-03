@@ -19,6 +19,7 @@
 </p>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <hr />
 <h3>Stats📈</h3>
