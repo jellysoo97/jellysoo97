@@ -34,8 +34,8 @@
 <a href="https://github.com/jellysoo97/Cotato-web-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Cotato-web-client&theme=buefy" />
 </a>
-<a href="https://github.com/jellysoo97/travelmate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=travelmate&theme=buefy" />
+<a href="https://github.com/jellysoo97/Capstone-food-recommender-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellysoo97&repo=Capstone-food-recommender-system&theme=buefy" />
 </a>
 
 <hr />
