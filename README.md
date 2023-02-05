@@ -4,7 +4,6 @@
 
 - ✏ studying Web FrontEnd
 - 🦉 Hankuk University of Foreign Studies
-- 🎓 major in Chinese Foreign Affairs and Commerce & SWAI (Software&AI)
 <hr />
 
 <h3>Stats📈</h3>
