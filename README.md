@@ -3,7 +3,6 @@
 <h3>ABOUT ME</h3>
 
 - ✏ studying Web FrontEnd
-- 🦉 Hankuk University of Foreign Studies
 <hr />
 
 <h3>Stats📈</h3>
