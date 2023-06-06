@@ -7,7 +7,7 @@
 
 <h3>Stats📈</h3>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jellysoo97&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jellysoo97's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellysoo97&layout=compact&theme=buefy&hide_border=true&count-private=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jellysoo97&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="jellysoo97's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellysoo97&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 <hr />
